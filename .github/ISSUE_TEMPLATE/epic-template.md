@@ -1,18 +1,15 @@
-## Objective Statement
+Title: Milestone/Project Name
 
-## Motivation
-<!--- Why are we wanting to work on this? What need triggered this idea/concept? --->
-
-## Description
-<!--- Describe your steps in detail -->
-
-## Examples
-<!--- Some examples of what is needed -->
-
-### Concept Diagrams (If applicable)
-<!--- If applicable, conceptual diagram of what is desired -->
+## Persons of Contact
+- Role: Name
+- Role: Name
+- Role: Name
 
 ### Acceptance Criteria:
 <!--- List of criteria for acceptance from project owner/stakeholders -->
+- [ ] Link to task issue (# (Project Name: Task))
+- [ ] Link to task issue (# (Project Name: Task))
+- [ ] Checklist item
+- [ ] Checklist item
 
-
+Assign Milestone to this issue for overall status tracking
